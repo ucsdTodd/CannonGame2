@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Cannon Game</string>
+    <string name="reset_game">Continue</string>
+    <string name="quit_game">Quit Game</string>
+    <string name="win">You win!!</string>
+    <string name="lose">You lose.</string>
+    <string name="time_remaining_format">Time remaining: %.1f</string>
+    <string name="results_format">Shots fired: %1$d\nTotal time: %2$.1f</string>
+    <string name="level_format">Level: %1$d</string>
+</resources>
